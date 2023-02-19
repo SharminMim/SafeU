@@ -27,6 +27,7 @@ The project's motivations fall into two categories. The first step is to get rea
 The second is to engage in practical problem-solving projects. Nowadays, everyone's safety is a major concern. The most prevalent issues in our culture are robbery, kidnapping, molestation, and murder. Someone suffers from one of them every day. We decided to make this app with that in mind so that he may save himself the time. In conclusion, the motivation was to start the mobile application development process by solving a practical issue.
 
 # Snapshot:
+![safeU](https://user-images.githubusercontent.com/98965200/219963099-c89e4d89-cb78-4ac3-aa12-d45c8ad9ae63.jpg)
 
 
 
